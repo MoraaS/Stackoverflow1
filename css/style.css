@@ -192,6 +192,14 @@ ul{
       color: coral;
       top: 30%; 
   }
+  .container {
+    padding-right: 55px;
+    padding-left: 55px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 1.2em;
+    color: #000;
+}
   /* .content{
     position:absolute;
     width: 40%;
